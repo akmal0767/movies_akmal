@@ -1,0 +1,18 @@
+
+/* public/style.css */
+*{box-sizing:border-box;font-family:Arial,Helvetica,sans-serif}
+body{background:#f4f6f8;color:#222;margin:0;padding:20px}
+.container{max-width:900px;margin:0 auto;background:#fff;padding:24px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,0.06)}
+h1{margin-top:0}
+.controls{margin:16px 0;display:flex;gap:10px}
+button{padding:8px 12px;border-radius:8px;border:1px solid #ccc;background:#fff;cursor:pointer}
+button:hover{box-shadow:0 3px 8px rgba(0,0,0,0.06)}
+.output{margin-top:18px}
+.movie{padding:12px;border:1px solid #eee;border-radius:8px;margin-bottom:10px;display:flex;justify-content:space-between;align-items:center}
+.movie .meta{max-width:80%}
+.badge{display:inline-block;padding:4px 8px;border-radius:999px;background:#ffd54f;color:#222;font-weight:600;margin-left:8px;font-size:12px}
+.genre-pill{font-size:12px;padding:4px 8px;border-radius:999px;border:1px solid #ddd;background:#fafafa;margin-right:6px}
+.row{display:flex;gap:8px;align-items:center}
+.small{color:#555;font-size:13px}
+.genres-list{display:flex;flex-wrap:wrap;gap:8px}
+.alert{color:#a00}

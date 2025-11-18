@@ -80,7 +80,7 @@ movie-collection-api/
 ## Installation & Setup Instructions
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/akmal0767/movies_akmal.git>
 cd movie-collection-api
 ```
 2. Install dependencies:
@@ -110,3 +110,6 @@ Your Name Here
 - Make sure `node_modules/` is excluded (use the provided `.gitignore`).
 - Make at least two meaningful commits when you push to GitHub (suggested commit messages in README).
 - Zip the folder as `movieapi_<yourname>.zip` before submitting.
+
+## Git hub repostory link:
+https://github.com/akmal0767/movies_akmal.git              
